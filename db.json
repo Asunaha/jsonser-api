@@ -1,0 +1,214 @@
+{
+  "department": [
+    {
+      "name": "Công nghệ thông tin",
+      "id": "1"
+    },
+    {
+      "name": "Kinh tế",
+      "id": "2"
+    },
+    {
+      "name": "Cơ bản",
+      "id": "3"
+    },
+    {
+      "name": "Nhân sự",
+      "id": "4"
+    }
+  ],
+  "teacher": [
+    {
+      "name": "Nguyễn Ngọc Huyền",
+      "avatar": "https://res.cloudinary.com/dugggqo1t/image/upload/v1749565252/9131478_wxjv4f.png",
+      "dob": "1958-01-07T17:00:00.000Z",
+      "gender": false,
+      "email": "Andreane.Huel@example.org",
+      "department": {
+        "name": "Công nghệ thông tin",
+        "id": "1"
+      },
+      "id": "3"
+    },
+    {
+      "name": "Lindsey Kertzmann",
+      "avatar": "https://avatars.githubusercontent.com/u/6728087",
+      "dob": "1960-10-05T17:00:00.000Z",
+      "gender": false,
+      "email": "Candido49@example.org",
+      "department": {
+        "name": "Cơ bản",
+        "id": "3"
+      },
+      "id": "7"
+    },
+    {
+      "name": "Henry Flatley",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/88.jpg",
+      "dob": "1944-12-10T21:35:01.886Z",
+      "gender": false,
+      "email": "Nikita_McDermott-Barton61@example.com",
+      "department": {
+        "name": "Công nghệ thông tin",
+        "id": "1"
+      },
+      "id": "8"
+    },
+    {
+      "name": "Ruby Bergnaum-Cruickshank",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/76.jpg",
+      "dob": "2001-02-10T17:00:00.000Z",
+      "gender": false,
+      "email": "Gregoria19@example.net",
+      "department": {
+        "name": "Cơ bản",
+        "id": "3"
+      },
+      "id": "11"
+    },
+    {
+      "name": "Todd Obrien",
+      "avatar": "https://randomuser.me/api/portraits/men/85.jpg",
+      "dob": "2009-03-06T17:00:00.000Z",
+      "gender": true,
+      "email": "qaqatakuty@mailinator.com",
+      "department": {
+        "name": "Kinh tế",
+        "id": "2"
+      },
+      "id": "13"
+    },
+    {
+      "name": "Lillith Christian",
+      "avatar": "https://randomuser.me/api/portraits/men/1.jpg",
+      "dob": "2018-10-16T17:00:00.000Z",
+      "gender": true,
+      "email": "dilido@mailinator.com",
+      "department": {
+        "name": "Kinh tế",
+        "id": "2"
+      },
+      "id": "14"
+    },
+    {
+      "name": "Herrod Barrera",
+      "avatar": "https://randomuser.me/api/portraits/men/27.jpg",
+      "dob": "1984-08-19T17:00:00.000Z",
+      "gender": true,
+      "email": "xanuhoqob@mailinator.com",
+      "department": {
+        "name": "Cơ bản",
+        "id": "3"
+      },
+      "id": "15"
+    },
+    {
+      "name": "Denise Travis",
+      "avatar": "https://randomuser.me/api/portraits/women/60.jpg",
+      "dob": "2016-09-22T17:00:00.000Z",
+      "gender": false,
+      "email": "bixido@mailinator.com",
+      "department": {
+        "name": "Kinh tế",
+        "id": "2"
+      },
+      "id": "16"
+    },
+    {
+      "name": "Genevieve Walsh",
+      "avatar": "https://randomuser.me/api/portraits/men/54.jpg",
+      "dob": "1972-01-05T17:00:00.000Z",
+      "gender": true,
+      "email": "kelizuzi@mailinator.com",
+      "department": {
+        "name": "Công nghệ thông tin",
+        "id": "1"
+      },
+      "id": "17"
+    },
+    {
+      "name": "Ivan Sullivan",
+      "avatar": "https://randomuser.me/api/portraits/women/81.jpg",
+      "dob": "1970-07-16T17:00:00.000Z",
+      "gender": false,
+      "email": "sami@mailinator.com",
+      "department": {
+        "name": "Kinh tế",
+        "id": "2"
+      },
+      "id": "18"
+    },
+    {
+      "name": "Mallory Horn",
+      "avatar": "https://randomuser.me/api/portraits/women/95.jpg",
+      "dob": "1973-02-01T17:00:00.000Z",
+      "gender": false,
+      "email": "vyqybe@mailinator.com",
+      "department": {
+        "name": "Cơ bản",
+        "id": "3"
+      },
+      "id": "19"
+    },
+    {
+      "name": "Shay Rutledge",
+      "avatar": "https://randomuser.me/api/portraits/men/83.jpg",
+      "dob": "1976-01-27T17:00:00.000Z",
+      "gender": true,
+      "email": "dyzunakuh@mailinator.com",
+      "department": {
+        "name": "Kinh tế",
+        "id": "2"
+      },
+      "id": "20"
+    },
+    {
+      "name": "Kirsten Suarez",
+      "avatar": "https://randomuser.me/api/portraits/women/81.jpg",
+      "dob": "2023-06-06T17:00:00.000Z",
+      "gender": false,
+      "email": "dybuqa@mailinator.com",
+      "department": {
+        "name": "Công nghệ thông tin",
+        "id": "1"
+      },
+      "id": "21"
+    },
+    {
+      "name": "Cheryl Haley",
+      "avatar": "https://res.cloudinary.com/dugggqo1t/image/upload/v1749420509/password-icon-1903x2048-m0d1f305_vb1yes.png",
+      "dob": "1975-01-18T17:00:00.000Z",
+      "gender": false,
+      "email": "nygave@mailinator.com",
+      "department": {
+        "name": "Cơ bản",
+        "id": "3"
+      },
+      "id": "24"
+    },
+    {
+      "name": "Harlan Turner",
+      "avatar": "https://res.cloudinary.com/dugggqo1t/image/upload/v1749562112/429785971_386741110646252_785008591496437424_n_vrru20.jpg",
+      "dob": "1982-08-31T17:00:00.000Z",
+      "gender": false,
+      "email": "xicov@mailinator.com",
+      "department": {
+        "name": "Kinh tế",
+        "id": "2"
+      },
+      "id": "25"
+    },
+    {
+      "dob": "2015-03-03T17:00:00.000Z",
+      "email": "nixuroz@mailinator.com",
+      "name": "Faith Page",
+      "gender": true,
+      "department": {
+        "name": "Kinh tế",
+        "id": "2"
+      },
+      "avatar": "https://res.cloudinary.com/dugggqo1t/image/upload/v1749568732/logo_h%C3%ACnh_c%C3%A1nh_chim_mc6eze.jpg",
+      "id": "26"
+    }
+  ]
+}
